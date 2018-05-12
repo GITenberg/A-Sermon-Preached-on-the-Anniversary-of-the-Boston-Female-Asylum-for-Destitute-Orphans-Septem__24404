@@ -1,0 +1,29 @@
+_repo: A-Sermon-Preached-on-the-Anniversary-of-the-Boston-Female-Asylum-for-Destitute-Orphans-Septem__24404
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wainwright, Jonathan Mayhew
+    birthdate: 1792
+    deathdate: 1854
+    gutenberg_agent_id: '26463'
+    url: http://www.gutenberg.org/2009/agents/26463
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Mayhew_Wainwright_I
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2008-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charity -- Sermons'
+- !lcc 'HV'
+title: A Sermon Preached on the Anniversary of the Boston Female Asylum for Destitute
+  Orphans, September 25, 1835
+url: http://www.gutenberg.org/ebooks/24404
